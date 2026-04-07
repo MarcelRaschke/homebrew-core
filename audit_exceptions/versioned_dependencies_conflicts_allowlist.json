@@ -1,11 +1,5 @@
 [
-  "couchdb-lucene",
   "hive",
-  "libgaiagraphics",
-  "librasterlite",
-  "predictionio",
-  "sqoop",
-  "swtpm",
-  "synergy-core",
-  "tomcat-native"
+  "opencoarrays",
+  "pake"
 ]
